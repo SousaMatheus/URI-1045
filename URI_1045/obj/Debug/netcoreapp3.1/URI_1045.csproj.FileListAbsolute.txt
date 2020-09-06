@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\bin\Debug\netcoreapp3.1\URI_1045.exe
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\bin\Debug\netcoreapp3.1\URI_1045.deps.json
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\bin\Debug\netcoreapp3.1\URI_1045.runtimeconfig.json
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\bin\Debug\netcoreapp3.1\URI_1045.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\bin\Debug\netcoreapp3.1\URI_1045.dll
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\bin\Debug\netcoreapp3.1\URI_1045.pdb
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.dll
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.pdb
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1045\URI_1045\obj\Debug\netcoreapp3.1\URI_1045.genruntimeconfig.cache
